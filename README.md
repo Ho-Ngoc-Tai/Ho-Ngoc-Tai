@@ -20,8 +20,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
@@ -54,6 +52,7 @@ const taiHo: Developer = {
     "🌌 Aiming to be a Team Leader in 3 years"
   ]
 };
+```
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -132,14 +131,14 @@ const taiHo: Developer = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 🐍 Contribution Snake
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake-dark.svg">
 </picture>
+</div>
 
 📫 Connect With Me
 <p align="center">
