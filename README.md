@@ -28,6 +28,17 @@
 const taiHo: Developer = {
   name: "Hồ Ngọc Tài",
   role: "Fresher Full-stack Developer",
+  education: "Master of IT @ HUTECH",
+  location: "Ho Chi Minh City, Vietnam 🇻🇳",
+  experience: "1 Year Professional Experience",
+  stack: ["Next.js", "NestJS", "MongoDB", "MUI"],
+  currentGoal: "TOEIC B2 & Team Leader Path 🚀"
+};
+
+```typescript
+const taiHo: Developer = {
+  name: "Hồ Ngọc Tài",
+  role: "Fresher Full-stack Developer",
   education: "Master of Information Technology @ HUTECH",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   
@@ -53,8 +64,6 @@ const taiHo: Developer = {
   ]
 };
 ```
-<br clear="right"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 🛠️ Tech Universe
@@ -66,7 +75,7 @@ const taiHo: Developer = {
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MUI-007FFF%3Fstyle%3Dfor-the-badge%26logo%3Dmui%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Material--UI-007FFF%3Fstyle%3Dfor-the-badge%26logo%3Dmui%26logoColor%3Dwhite" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -86,11 +95,13 @@ const taiHo: Developer = {
 
 📊 Cosmic GitHub Stats
 <div align="center">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHo-Ngoc-Tai%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHo-Ngoc-Tai%26layout%3Dcompact%26theme%3Dtokyonight" />
+</div>
 
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHo-Ngoc-Tai%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1a1b27%26title_color%3D667eea%26icon_color%3Df093fb%26text_color%3Dc3e88d%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DHo-Ngoc-Tai%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D1a1b27%26ring%3D667eea%26fire%3Df093fb%26currStreakLabel%3D667eea" />
-
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHo-Ngoc-Tai%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D1a1b27%26title_color%3D667eea%26text_color%3Dc3e88d%26langs_count%3D10%26hide%3Dhtml,css" />
+<div align="center">
+<img width="100%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHo-Ngoc-Tai%26theme%3Dtokyonight%26custom_title%3DContribution%2520Galaxy" />
+</div>
 
 📈 Contribution Galaxy
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHo-Ngoc-Tai%26custom_title%3D🌌%20Contribution%20Galaxy&bg_color=1a1b27&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%" />
@@ -133,11 +144,7 @@ const taiHo: Developer = {
 
 🐍 Contribution Snake
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 📫 Connect With Me
@@ -149,6 +156,10 @@ const taiHo: Developer = {
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
+</div>
 
 <div align="center">
 
