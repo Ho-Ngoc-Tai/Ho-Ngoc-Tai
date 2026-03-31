@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-```typescript
+typescript
 const hoNgocTai = {
   role: "Backend Developer",
   location: "Vietnam 🇻🇳",
@@ -61,4 +61,4 @@ const hoNgocTai = {
 <p align="center"> <a href="https://github.com/Ho-Ngoc-Tai"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/> </a> </p>
 <div align="center">
 🚀 "Keep building, keep learning."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/> </div>
