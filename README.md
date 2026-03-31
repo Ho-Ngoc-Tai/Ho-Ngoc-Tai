@@ -28,17 +28,6 @@
 const taiHo: Developer = {
   name: "Hồ Ngọc Tài",
   role: "Fresher Full-stack Developer",
-  education: "Master of IT @ HUTECH",
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  experience: "1 Year Professional Experience",
-  stack: ["Next.js", "NestJS", "MongoDB", "MUI"],
-  currentGoal: "TOEIC B2 & Team Leader Path 🚀"
-};
-
-```typescript
-const taiHo: Developer = {
-  name: "Hồ Ngọc Tài",
-  role: "Fresher Full-stack Developer",
   education: "Master of Information Technology @ HUTECH",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   
