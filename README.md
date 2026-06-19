@@ -84,7 +84,9 @@ const taiHo: Developer = {
 
 📊 Cosmic GitHub Stats
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHo-Ngoc-Tai%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho-Ngoc-Tai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ngoc-Tai&layout=compact&theme=tokyonight" />
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHo-Ngoc-Tai%26layout%3Dcompact%26theme%3Dtokyonight" />
 </div>
 
