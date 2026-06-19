@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=TAI%20NGOC%20HO&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Master%20IT%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=300&section=header&text=HO%20NGOC%20TAI&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Master%20IT%20Student%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
