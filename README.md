@@ -128,9 +128,7 @@ const taiHo: Developer = {
 
 </div>
 
-🐍 Contribution Snake
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=tokyonight&custom_title=Contribution%20Galaxy" />
-
+🐍 Contribution Snake <div align="center"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" /> </div>
 
 📫 Connect With Me
 <p align="center">
