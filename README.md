@@ -64,16 +64,16 @@ const taiHo: Developer = {
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Material--UI-007FFF%3Fstyle%3Dfor-the-badge%26logo%3Dmui%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ⚙️ Backend & Databases
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NestJS-E0234E%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Neo4j-008CC1%3Fstyle%3Dfor-the-badge%26logo%3Dneo4j%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -87,11 +87,6 @@ const taiHo: Developer = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho-Ngoc-Tai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ngoc-Tai&layout=compact&theme=tokyonight" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHo-Ngoc-Tai%26layout%3Dcompact%26theme%3Dtokyonight" />
-</div>
-
-<div align="center">
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHo-Ngoc-Tai%26theme%3Dtokyonight%26custom_title%3DContribution%2520Galaxy" />
 </div>
 
 📈 Contribution Galaxy
@@ -135,7 +130,7 @@ const taiHo: Developer = {
 
 🐍 Contribution Snake
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
+<img src="https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
 
 📫 Connect With Me
