@@ -129,9 +129,37 @@ const taiHo: Developer = {
 </div>
 
 🐍 Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
+name: Generate Snake
+
+on:
+schedule:
+- cron: "0 */12 * * *"
+workflow_dispatch:
+
+jobs:
+generate:
+permissions:
+contents: write
+
+```
+runs-on: ubuntu-latest
+
+steps:
+  - uses: Platane/snk@v3
+    id: snake-gif
+    with:
+      github_user_name: Ho-Ngoc-Tai
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+
+  - uses: crazy-max/ghaction-github-pages@v4
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
 
 📫 Connect With Me
 <p align="center">
