@@ -155,6 +155,6 @@ const taiHo: Developer = {
 🌌 "In the vast universe of code, every bug is a new star to discover" 🌌
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
 
-Crafted with 💜 by Tai Ngoc Ho
+Crafted with 💜 by HO NGOC TAI
 
 </div>
