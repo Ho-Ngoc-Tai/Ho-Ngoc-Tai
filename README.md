@@ -95,7 +95,7 @@ const taiHo: Developer = {
 </div>
 
 📈 Contribution Galaxy
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHo-Ngoc-Tai%26custom_title%3D🌌%20Contribution%20Galaxy&bg_color=1a1b27&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=tokyonight&custom_title=Contribution%20Galaxy" />
 
 </div>
 
