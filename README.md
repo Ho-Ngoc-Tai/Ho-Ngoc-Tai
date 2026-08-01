@@ -31,7 +31,7 @@ const taiHo: Developer = {
   education: "Master of Information Technology @ HUTECH",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   
-  experience: "2 Years in ReactJS & NextJS Ecosystem",
+   experience: "2 Years in ReactJS & NextJS Ecosystem",
   
   technologies: {
     frontend: ["Next.js", "React", "MUI", "TailwindCSS"],
@@ -52,3 +52,105 @@ const taiHo: Developer = {
     "🌌 Aiming to be a Team Leader in 3 years"
   ]
 };
+```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+🛠️ Tech Universe
+<div align="center">
+
+💻 Web Development Stack
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+⚙️ Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+📊 Cosmic GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ho-Ngoc-Tai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Ngoc-Tai&layout=compact&theme=tokyonight" />
+</div>
+
+📈 Contribution Galaxy
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=tokyonight&custom_title=Contribution%20Galaxy" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+🌟 Featured Academic Projects
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🤖 Animal Recognition System</h3>
+<p>A Machine Learning project focused on identifying animal species using computer vision.</p>
+<p><strong>Tech Stack:</strong> <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>📊 NLP Research: Word2Vec/Doc2Vec</h3>
+<p>Exploring vector space models for semantic analysis in Master's level reports.</p>
+<p><strong>Tech Stack:</strong> <code>Python</code> <code>Gensim</code> <code>NLTK</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚡ Fullstack Next.js CMS</h3>
+<p>A modern management system built with high-performance UI components.</p>
+<p><strong>Tech Stack:</strong> <code>Next.js</code> <code>MUI</code> <code>NestJS</code> <code>MongoDB</code></p>
+</td>
+<td width="50%" valign="top">
+<h3>🕸️ Graph Data with Neo4j</h3>
+<p>Implementation of complex relationships and data queries using Neo4j.</p>
+<p><strong>Tech Stack:</strong> <code>Neo4j</code> <code>Cypher</code> <code>Node.js</code></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+🐍 Contribution Snake <div align="center">
+  <img src="https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+📫 Connect With Me
+<p align="center">
+<a href="https://github.com/Ho-Ngoc-Tai">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:hongoctai.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+
+🌌 "In the vast universe of code, every bug is a new star to discover" 🌌
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%" />
+
+Crafted with 💜 by HO NGOC TAI
+
+</div>
