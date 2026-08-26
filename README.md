@@ -98,7 +98,11 @@ const taiHo: Developer = {
 />
 
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-light&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true" alt="Contribution Graph" />
+</picture>
 📈 Contribution Galaxy
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=tokyonight&custom_title=Contribution%20Galaxy" />
 
