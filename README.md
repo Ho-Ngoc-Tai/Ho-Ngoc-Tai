@@ -104,8 +104,17 @@ const taiHo: Developer = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true" alt="Contribution Graph" />
 </picture>
 📈 Contribution Galaxy
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=tokyonight&custom_title=Contribution%20Galaxy" />
-
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000&area=true" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-light&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000&area=true" 
+  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000&area=true" alt="Contribution Galaxy" />
+</picture>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 🌟 Featured Academic Projects
