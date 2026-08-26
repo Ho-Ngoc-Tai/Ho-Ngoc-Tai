@@ -138,9 +138,9 @@ const taiHo: Developer = {
 
 </div>
 
-🐍 Contribution Snake <div align="center">
-  <img src="https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
+🐍 Contribution Snake
+
+<div align="center"> <img src="https://raw.githubusercontent.com/Ho-Ngoc-Tai/Ho-Ngoc-Tai/output/github-contribution-grid-snake.svg" alt="Snake" /> </div>
 
 📫 Connect With Me
 <p align="center">
