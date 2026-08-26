@@ -98,17 +98,15 @@ const taiHo: Developer = {
 />
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-light&custom_title=Contribution%20Galaxy&hide_border=true&bg_color=00000000" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ho-Ngoc-Tai&theme=github-dark&custom_title=Contribution%20Galaxy&hide_border=true" alt="Contribution Graph" />
-</picture>
+
 📈 Contribution Galaxy
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/Ho-Ngoc-Tai" />
   <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/Ho-Ngoc-Tai?color=purple&background=white" />
   <img width="100%" src="https://ghchart.rshah.org/Ho-Ngoc-Tai" alt="Contribution Calendar" />
 </picture>
+
+</div><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
